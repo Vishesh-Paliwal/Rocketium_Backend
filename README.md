@@ -3,12 +3,16 @@
 This project is a Node.js API that serves dummy JSON data. It provides endpoints to retrieve, filter, and sort the data, and includes Swagger documentation for easy API exploration and testing.
 
 **Table of Contents**
-
+   - Video guide for setup
    - Features
    - Installation
    - Usage
    - API Documentation
    - Testing
+
+# Video guide for Setup
+   [Screencast from 31-07-24 12:18:50 PM IST.webm](https://github.com/user-attachments/assets/5f1120ef-1578-40dd-b899-5e72ad6ef9ac)
+
 
 # **Features**
 
